@@ -16,9 +16,9 @@
 -->
 <resources>
     <!-- Material -->
-    <color name="primary">#607D8B</color>
-    <color name="primary_dark">#455A64</color>
-    <color name="primary_light">#78909C</color>
+    <color name="primary">#3F51B5</color>
+    <color name="primary_dark">#303F9F</color>
+    <color name="primary_light">#303F9F</color>
     <color name="accent">#3f51b5</color>
 
     <!-- light color -->
@@ -65,7 +65,7 @@
     <color name="holo_orange_dark">#ffff8800</color>
 
     <!-- Color for the action bar -->
-    <color name="header_action_bar_color">#ff31353f</color>
+    <color name="header_action_bar_color">#ff3F51B5</color>
     <color name="header_action_bar_text_color">#bfffffff</color>
     <color name="bottom_action_bar_text_color">@color/default_text_color_light</color>
 
@@ -73,7 +73,7 @@
     <color name="page_header_background">#fff4f4f4</color>
 
     <!-- Color for background for shadow on playlist page -->
-    <color name="header_shadow_color">#ea31353f</color>
+    <color name="header_shadow_color">#ea3F51B5</color>
 
     <!-- Color for the pop up menu -->
     <color name="menu_divider_color">#4ca19d9e</color>
